@@ -756,8 +756,8 @@ end;
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
-  ShowMessage('For the first time use, install Nastaliq font. If you''ve already installed it, replace it with your current font.');
-  ShellExecute(Handle, 'Preview', 'C:\Nastaliq.ttf', '', nil, SW_SHOW);
+  ShowMessage('For the first time use, please install Nastaliq font.');
+  ShellExecute(Handle, 'Preview', 'Nastaliq.ttf', '', nil, SW_SHOW);
   Generate;
 end;
 
