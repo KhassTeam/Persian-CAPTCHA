@@ -1,7 +1,6 @@
-# Persian CAPTCHA
+# Persian CAPTCHA (کپچا فارسی)
 
-Simple Persian CAPTCHA generator, using "Nastaliq" font.
-This project is implemented with Delphi programming language.
+Just a simple Persian CAPTCHA generator using "Nastaliq" (نستعلیق) font. No special libraries have been used in that, so it was good practice for us to learn image processing in middle school. This project is implemented using the Delphi programming language.
 
 ## Screenshots
 
@@ -17,4 +16,4 @@ Open the project using Embarcadero RAD Studio Delphi.
 
 ## Run
 
-Clone the project and run Persian_CAPTCHA.exe (in Windows).
+Clone the project and run Persian_CAPTCHA.exe (on Windows).
