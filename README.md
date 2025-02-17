@@ -1,6 +1,6 @@
 # Persian CAPTCHA (کپچا فارسی)
 
-Just a simple Farsi CAPTCHA generator using "Nastaliq" (نستعلیق) font. No special libraries have been used in that, so it was good practice for us to learn image processing in middle school. This project is implemented using the Delphi programming language.
+Just a simple Farsi CAPTCHA generator using "Nastaliq" (نستعلیق) font, for educational programming purposes. No special libraries have been used in that, so it was good practice for us to learn image processing in middle school. This project is implemented using the Delphi programming language.
 
 ## Screenshots
 
